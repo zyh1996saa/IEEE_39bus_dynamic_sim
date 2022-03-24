@@ -1,0 +1,17 @@
+ID = GEN10
+GEN_NO = 0
+MVA_Rating = 100
+
+Ra = 0
+Xa = 0.0
+Xd = 0.1
+Xq = 0.069
+Xdp = 0.031
+Xqp = 0.008
+Xdpp = 0.1
+Xqpp = 0.1
+Td0p = 10.2
+Tq0p =0.1
+Td0pp = 0.075
+Tq0pp = 0.075
+H = 42
